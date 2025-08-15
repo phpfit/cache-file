@@ -1,0 +1,23 @@
+{
+    "name": "phpfit/cache-file",
+    "version": "1.0.0",
+    "description": "PSR-16 Implementation of simple cache usinig file",
+    "type": "library",
+    "require": {
+        "psr/simple-cache": "^3.0",
+        "phpfit/file": "^1.0",
+        "phpfit/source-generator": "^1.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "PhpFit\\CacheFile\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Iqbal Fauzi",
+            "email": "iqbalfawz@gmail.com"
+        }
+    ]
+}
