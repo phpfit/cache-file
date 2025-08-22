@@ -23,5 +23,5 @@ $value = $cache->get('key', 'default');
 
 ## License
 
-The phpfit/env library is licensed under the MIT license.
+The phpfit/cache-file library is licensed under the MIT license.
 See [License File](LICENSE.md) for more information.
